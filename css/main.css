@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+}
+.conteiner {
+    font-family: 'Poppins', sans-serif;
+    list-style: none;
+    margin: -2em 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+.st {
+    width: 212px;
+    height: 290px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    list-style: none;
+}
+.st__heading {
+    font-size: 21px;
+    color: #1d1d1f;
+    margin: 36px 0 0 0;
+}
+.st__paragraph {
+    font-size: 14px;
+    color: #1d1d1f;
+    margin: 7px 0 0 0;
+}
+.st__btn1 {
+    border-radius: 980px;
+    background: #0071e3;
+    border: 1px solid #0071e3;
+    color: #fff;
+    font-size: 12px;
+    padding: 4px 11px;
+    margin: 16px 0 0 0;
+}
+.st__learn {
+    margin: 8px 0 0 0;
+    font-size: 14px;
+    color: #0066cc;
+}
+.nd {
+    width: 212px;
+    height: 290px;
+    margin: 0px 6em;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    list-style: none;
+}
+.nd__heading {
+    font-size: 21px;
+    color: #1d1d1f;
+    margin: 36px 0 0 0;
+}
+.nd__paragraph {
+    font-size: 14px;
+    color: #1d1d1f;
+    margin: 7px 0 0 0;
+}
+.nd__btn1 {
+    border-radius: 980px;
+    background: #0071e3;
+    border: 1px solid #0071e3;
+    color: #fff;
+    font-size: 12px;
+    padding: 4px 11px;
+    margin: 16px 0 0 0;
+}
+.nd__learn {
+    margin: 8px 0 0 0;
+    font-size: 14px;
+    color: #0066cc;
+}
+.rd {
+    width: 304px;
+    height: 290px;
+
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    list-style: none;
+}
+.rd__heading {
+    font-size: 21px;
+    color: #1d1d1f;
+    margin: 36px 0 0 0;
+}
+.rd__paragraph {
+    font-size: 14px;
+    color: #1d1d1f;
+    margin: 7px 0 0 0;
+}
+.rd__btn1 {
+    border-radius: 980px;
+    background: #0071e3;
+    border: 1px solid #0071e3;
+    color: #fff;
+    font-size: 12px;
+    padding: 4px 11px;
+    margin: 16px 0 0 0;
+}
+.rd__learn {
+    margin: 8px 0 0 0;
+    font-size: 14px;
+    color: #0066cc;
+}
+.rd__aboutchip {
+    font-size: 14px;
+    color: #1d1d1f;
+}
